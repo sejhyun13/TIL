@@ -11,10 +11,14 @@
             "id": "b6e4825aab4b42f6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Algorithm/DFS.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "DFS"
             }
           }
         ]
@@ -186,8 +190,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b6e4825aab4b42f6",
+  "active": "b7c7af831427bbe7",
   "lastOpenFiles": [
+    "_old/알고리즘 - 탐색 기본/DFS.md",
+    "Algorithm/DFS.md",
+    "Git/개인 알고리즘 Repo와 스터디용 Repo 동기화 방법.md",
+    "_old/Git/개인 알고리즘 Repo와 스터디용 Repo 동기화 방법.md",
     "알고리즘 A형 준비/델타 탐색 (Delta Search).md",
     "알고리즘 - 탐색 기본/2차원 배열 만들기.md",
     "알고리즘 - 탐색 기본/DFS.md",
@@ -195,7 +203,6 @@
     "Web/CSS/OOCSS.md",
     "Web/Bootstrap.md",
     "Git/Git 용어 정리.md",
-    "Git/개인 알고리즘 Repo와 스터디용 Repo 동기화 방법.md",
     "알고리즘 A형 준비/달팽이 문제.md",
     "알고리즘 A형 준비/dydx기법.md",
     "알고리즘 A형 준비/BFS & DFS.md",
@@ -220,8 +227,6 @@
     "TIL",
     "개발 지식이 더 중요한 잉ㅍ.md",
     "일정 계획/1월 9일 일정계획.md",
-    "일정 계획/1월 5일 일정계획.md",
-    "일정 계획/1월 6일 일정계획.md",
     "일정 계획",
     "00.Inbox/attachments/스크린샷 2026-01-05 오후 3.46.59.png",
     "Pasted image 20260105113501.png",
