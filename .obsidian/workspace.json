@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "053d949b8d2843f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "54ab4deb4c117206",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6e4825aab4b42f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘 A형 준비/달팽이 문제.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "달팽이 문제"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c7f2fbafcbe9bc8",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fd301d7ccd4949f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "511d66f1462d832a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "d543df65017d6bd1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "ea47c49548aecc47",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9ee349f6f4f36eac",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a790c6f7fb5074a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9a30f0fd4750717",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03. NOTE/무제.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "무제 의 백링크"
+            }
+          },
+          {
+            "id": "d82b42cd460201f2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03. NOTE/무제.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "무제 의 나가는 링크"
+            }
+          },
+          {
+            "id": "e6576f0cb4759a7a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "1255a44f74bc186e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03. NOTE/무제.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "무제 의 개요"
+            }
+          },
+          {
+            "id": "a51bc34a400996b9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "b7c7af831427bbe7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b6e4825aab4b42f6",
+  "lastOpenFiles": [
+    "알고리즘 A형 준비/델타 탐색 (Delta Search).md",
+    "알고리즘 - 탐색 기본/2차원 배열 만들기.md",
+    "알고리즘 - 탐색 기본/DFS.md",
+    "알고리즘 - 탐색 기본/Return의역할.md",
+    "Web/CSS/OOCSS.md",
+    "Web/Bootstrap.md",
+    "Git/Git 용어 정리.md",
+    "Git/개인 알고리즘 Repo와 스터디용 Repo 동기화 방법.md",
+    "알고리즘 A형 준비/달팽이 문제.md",
+    "알고리즘 A형 준비/dydx기법.md",
+    "알고리즘 A형 준비/BFS & DFS.md",
+    "알고리즘 A형 준비/비트 연산자 & 부분 집합.md",
+    "conflict-files-obsidian-git.md",
+    "플젝싸피_과제불러오기.sh",
+    "Web/CSS",
+    "Web",
+    "README.md",
+    "Python/객체 지향 - MRO란？.md",
+    "01.26 알고리즘.md",
+    "Python",
+    "Git",
+    "알고리즘 - 탐색 기본",
+    "알고리즘 A형 준비",
+    "무제.base",
+    "금융/통장카드.md",
+    "TIL/개인 알고리즘 Repo와 스터디용 Repo 동기화 방법.md",
+    "TIL/README.md",
+    "TIL/01.26 알고리즘.md",
+    "00.Inbox/무제.md",
+    "TIL",
+    "개발 지식이 더 중요한 잉ㅍ.md",
+    "일정 계획/1월 9일 일정계획.md",
+    "일정 계획/1월 5일 일정계획.md",
+    "일정 계획/1월 6일 일정계획.md",
+    "일정 계획",
+    "00.Inbox/attachments/스크린샷 2026-01-05 오후 3.46.59.png",
+    "Pasted image 20260105113501.png",
+    "첨부 이미지/Pasted image 20250729150447.png"
+  ]
+}

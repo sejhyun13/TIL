@@ -1,0 +1,12 @@
+{
+  "enabledCssSnippets": [
+    "0920",
+    "bold_italics_light",
+    "header"
+  ],
+  "cssTheme": "Things",
+  "interfaceFontFamily": "Pretendard Variable",
+  "baseFontSize": 16,
+  "textFontFamily": "Pretendard Variable",
+  "theme": "obsidian"
+}

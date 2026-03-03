@@ -1,0 +1,21 @@
+/* Different color for bold*/
+.cm-strong,
+.markdown-preview-section strong {
+  color: #d67f33;
+  font-style: normal !important; 
+  font-weight: bolder !important;
+  animation: fadeIn 2.5s infinite alternate-reverse;
+}
+
+/* Different color for italic */
+.cm-em,
+.markdown-preview-section em {
+  color: #75c05a;
+  font-style: italic !important; 
+}
+
+
+@keyframes flash {
+  0% { opacity: 0.5; }
+  100% { opacity: 1; }
+}
