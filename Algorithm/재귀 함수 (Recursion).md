@@ -75,6 +75,6 @@ recur(0)
 
 ## 5. 연관 키워드
 
-* [[순열(Permutation)]]
+* [[순열 (Permutation)]]
 * [[분할 정복 (Divide and Conquer)]]
 * [[피보나치 수열 (Fibonacci Sequence)]]
