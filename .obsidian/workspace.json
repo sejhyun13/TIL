@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Algorithm/힙 (Heap).md",
+                "file": "04. AI/01. 행렬과 벡터.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "힙 (Heap)"
+              "title": "01. 행렬과 벡터"
             }
           }
         ]
@@ -192,6 +192,8 @@
   },
   "active": "195b915a0e6c8e30",
   "lastOpenFiles": [
+    "03. Algorithm/힙 (Heap).md",
+    "04. AI/01. 행렬과 벡터.md",
     "03. Algorithm/재귀 함수 (Recursion).md",
     "03. Algorithm/이진 탐색 (Binary Search).md",
     "평가 대비 정리/4주차 월말 대비 정리.md",
@@ -211,7 +213,6 @@
     "순열(Permutation).md",
     "분할 정복 (Divide and Conquer).md",
     "02. Git/Git 용어 정리.md",
-    "03. Algorithm/힙 (Heap).md",
     "03. Algorithm/tip",
     "_old/알고리즘 - 탐색 기본/DFS.md",
     "02. Git/개인 알고리즘 Repo와 스터디용 Repo 동기화 방법.md",
