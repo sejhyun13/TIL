@@ -8,13 +8,13 @@ Python 의 **`heapq`** 모듈은 일반적인 리스트를 **최소 힙(Min Heap
 
 ### 1. 주요 함수 설명
 
-| 함수명 | 동작 설명 | 시간 복잡도 |
-| --- | --- | --- |
-| **`heapq.heappush(heap, item)`** | 리스트 `heap` 에 `item` 을 추가하면서 힙 속성을 유지합니다. | $O(\log n)$ |
-| **`heapq.heappop(heap)`** | 힙에서 **가장 작은 값**을 삭제하고 반환합니다. 비어있으면 `IndexError` 가 발생합니다. | $O(\log n)$ |
-| **`heapq.heapify(x)`** | 리스트 `x` 를 선형 시간 내에 제자리(In-place)에서 힙으로 변환합니다. | $O(n)$ |
+| 함수명                                 | 동작 설명                                                     | 시간 복잡도      |
+| ----------------------------------- | --------------------------------------------------------- | ----------- |
+| **`heapq.heappush(heap, item)`**    | 리스트 `heap` 에 `item` 을 추가하면서 힙 속성을 유지합니다.                  | $O(\log n)$ |
+| **`heapq.heappop(heap)`**           | 힙에서 **가장 작은 값**을 삭제하고 반환합니다. 비어있으면 `IndexError` 가 발생합니다.  | $O(\log n)$ |
+| **`heapq.heapify(x)`**              | 리스트 `x` 를 선형 시간 내에 제자리(In-place)에서 힙으로 변환합니다.             | $O(n)$      |
 | **`heapq.heappushpop(heap, item)`** | `item` 을 푸시한 후, `heappop()` 을 호출합니다. 각각 따로 쓰는 것보다 효율적입니다. | $O(\log n)$ |
-| **`heapq.heapreplace(heap, item)`** | `heappop()` 을 먼저 실행하여 가장 작은 값을 반환하고, 그 후 `item` 을 푸시합니다. | $O(\log n)$ |
+| **`heapq.heapreplace(heap, item)`** | `heappop()` 을 먼저 실행하여 가장 작은 값을 반환하고, 그 후 `item` 을 푸시합니다.  | $O(\log n)$ |
 
 ---
 
