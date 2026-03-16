@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "54ab4deb4c117206",
+        "id": "869d4dcea5e9bf47",
         "type": "tabs",
         "children": [
           {
-            "id": "b6e4825aab4b42f6",
+            "id": "195b915a0e6c8e30",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "Algorithm/순열 (Permutation).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "순열 (Permutation)"
             }
           }
         ]
@@ -186,14 +190,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b6e4825aab4b42f6",
+  "active": "195b915a0e6c8e30",
   "lastOpenFiles": [
-    "Algorithm/외판원 문제.md",
-    "Algorithm/tip/함수로 구조화시의 단점.md",
     "Algorithm/병합 정렬 & 퀵 정렬.md",
     "Algorithm/분할 정복 (Divide and Conquer).md",
     "Algorithm/이진 탐색 (Binary Search).md",
     "Algorithm/순열 (Permutation).md",
+    "Python/Lambda 함수.md",
+    "Algorithm/외판원 문제.md",
+    "Algorithm/tip/함수로 구조화시의 단점.md",
     "평가 대비 정리/4주차 월말 대비 정리.md",
     "_old/알고리즘 A형 준비/비트 연산자 & 부분 집합.md",
     "_old/알고리즘 - 탐색 기본/Return의역할.md",
@@ -204,7 +209,6 @@
     "Algorithm/진법 변환 (Base Conversion).md",
     "Algorithm/DFS.md",
     "분할 정복 (Divide and Conquer).md",
-    "Python/Lambda 함수.md",
     "Git/Git 용어 정리.md",
     "Algorithm/힙 (Heap).md",
     "Algorithm/tip",
