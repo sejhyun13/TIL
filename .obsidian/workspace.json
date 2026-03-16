@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "DFS"
             }
+          },
+          {
+            "id": "e4e372721f7a51dd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.12.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,7 +203,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7c7af831427bbe7",
+  "active": "e4e372721f7a51dd",
   "lastOpenFiles": [
     "_old/알고리즘 - 탐색 기본/DFS.md",
     "Algorithm/DFS.md",
