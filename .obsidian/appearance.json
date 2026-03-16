@@ -8,5 +8,6 @@
   "interfaceFontFamily": "Pretendard Variable",
   "baseFontSize": 16,
   "textFontFamily": "Pretendard Variable",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "monospaceFontFamily": "JetBrains Mono"
 }
