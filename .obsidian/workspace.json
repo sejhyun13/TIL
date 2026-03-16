@@ -11,14 +11,14 @@
             "id": "b6e4825aab4b42f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "평가 대비 정리/4주차 월말 대비 정리.md",
-                "mode": "source",
-                "source": false
+                "aFile": "평가 대비 정리/4주차 월말 대비 정리.md",
+                "bFile": "평가 대비 정리/4주차 월말 대비 정리.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "4주차 월말 대비 정리"
+              "icon": "diff",
+              "title": "Diff: 4주차 월말 대비 정리  (Working Tree)"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 216.5
   },
   "right": {
     "id": "9ee349f6f4f36eac",
@@ -192,9 +192,11 @@
   },
   "active": "b6e4825aab4b42f6",
   "lastOpenFiles": [
-    "_old/알고리즘 A형 준비/비트 연산자 & 부분 집합.md",
+    "Algorithm/분할 정복 (Divide and Conquer).md",
     "Algorithm/이진 탐색 (Binary Search).md",
+    "Algorithm/순열 (Permutation).md",
     "평가 대비 정리/4주차 월말 대비 정리.md",
+    "_old/알고리즘 A형 준비/비트 연산자 & 부분 집합.md",
     "_old/알고리즘 - 탐색 기본/Return의역할.md",
     "Algorithm/외판원 문제.md",
     "평가 대비 정리",
@@ -202,9 +204,7 @@
     "순열(Permutation).md",
     "Algorithm/int().md",
     "Algorithm/진법 변환 (Base Conversion).md",
-    "Algorithm/분할 정복 (Divide and Conquer).md",
     "Algorithm/DFS.md",
-    "Algorithm/순열 (Permutation).md",
     "Algorithm/병합 정렬 & 퀵 정렬.md",
     "분할 정복 (Divide and Conquer).md",
     "Algorithm/tip/함수로 구조화시의 단점.md",
