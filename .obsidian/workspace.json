@@ -25,14 +25,14 @@
             "id": "31bda0535500d54b",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
+                "file": "04. AI/AI 2/02. 지도 학습.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "02. 지도 학습"
             }
           }
         ],
@@ -206,8 +206,8 @@
   },
   "active": "31bda0535500d54b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "04. AI/AI 2/03. 교차 검증.md",
+    "conflict-files-obsidian-git.md",
     "04. AI/AI 2/02. 지도 학습.md",
     "04. AI/AI 2/attachments/Pasted image 20260318004049.png",
     "04. AI/AI 2/attachments/Pasted image 20260318003529.png",
