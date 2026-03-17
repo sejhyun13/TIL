@@ -20,8 +20,23 @@
               "icon": "diff",
               "title": "Diff: workspace.json  (Working Tree)"
             }
+          },
+          {
+            "id": "31bda0535500d54b",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,8 +204,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e4e372721f7a51dd",
+  "active": "31bda0535500d54b",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "04. AI/AI 2/03. 교차 검증.md",
     "04. AI/AI 2/02. 지도 학습.md",
     "04. AI/AI 2/attachments/Pasted image 20260318004049.png",
@@ -202,7 +218,6 @@
     "04. AI/AI 2/attachments",
     "04. AI/numpy/01. 행렬과 벡터.md",
     "04. AI/AI 2",
-    "conflict-files-obsidian-git.md",
     "평가 대비 정리/4주차 월말 대비 정리.md",
     "평가 대비 정리",
     "04. AI/numpy",
