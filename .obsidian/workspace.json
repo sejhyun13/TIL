@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "02. 지도 학습"
             }
+          },
+          {
+            "id": "66ef0fe8cb30d2c3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.12.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,14 +196,13 @@
       "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "bases:새 베이스 생성하기": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b6e4825aab4b42f6",
+  "active": "66ef0fe8cb30d2c3",
   "lastOpenFiles": [
     "04. AI/AI 2/01. AI & 기계학습 기초.md",
     "04. AI/AI 2/03. 교차 검증.md",
