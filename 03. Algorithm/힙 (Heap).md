@@ -47,5 +47,3 @@ heapq.heappush(numbers, 0)  # 0 추가
 print(heapq.heappop(numbers))  # 가장 작은 값인 0 출력
 
 ```
-
-혹시 **최대 힙**을 구현하는 구체적인 테크닉이나, **우선순위 큐(`PriorityQueue`)** 클래스와의 성능 차이가 궁금하신가요? 구체적인 활용 사례를 말씀해 주시면 더 자세히 설명해 드릴 수 있습니다.
