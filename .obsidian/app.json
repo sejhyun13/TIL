@@ -3,5 +3,5 @@
   "spellcheck": false,
   "useMarkdownLinks": true,
   "alwaysUpdateLinks": true,
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "relative"
 }
