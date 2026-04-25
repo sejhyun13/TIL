@@ -3,5 +3,6 @@
   "spellcheck": false,
   "useMarkdownLinks": true,
   "alwaysUpdateLinks": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "strictLineBreaks": true
 }
