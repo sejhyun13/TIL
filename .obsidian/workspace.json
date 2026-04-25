@@ -11,10 +11,14 @@
             "id": "2e1c283c66c63c15",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "03. Algorithm/다익스트라 알고리즘 (Dijkstra Algorithm).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "다익스트라 알고리즘 (Dijkstra Algorithm)"
             }
           }
         ]
@@ -187,11 +191,14 @@
   },
   "active": "2e1c283c66c63c15",
   "lastOpenFiles": [
+    "03. Algorithm/진법 변환 (Base Conversion).md",
+    "03. Algorithm/순열 (Permutation).md",
+    "03. Algorithm/병합 정렬 & 퀵 정렬.md",
+    "03. Algorithm/다익스트라 알고리즘 (Dijkstra Algorithm).md",
     "04. AI/AI 2/02. 지도 학습.md",
     "03. Algorithm/외판원 문제.md",
     "03. Algorithm/분할 정복 (Divide and Conquer).md",
     "03. Algorithm/이진 탐색 (Binary Search).md",
-    "03. Algorithm/진법 변환 (Base Conversion).md",
     "04. AI/AI 2/01. AI & 기계학습 기초.md",
     "04. AI/AI 2/attachments/image.png",
     "04. AI/AI 2/attachments/Pasted image 20260318003025.png",
@@ -207,8 +214,6 @@
     "04. AI",
     "03. Algorithm/tip/함수로 구조화시의 단점.md",
     "03. Algorithm/재귀 함수 (Recursion).md",
-    "03. Algorithm/순열 (Permutation).md",
-    "03. Algorithm/병합 정렬 & 퀵 정렬.md",
     "03. Algorithm/tip",
     "03. Algorithm/int().md",
     "03. Algorithm/DFS.md",
